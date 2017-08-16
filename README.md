@@ -10,6 +10,8 @@
 
 # data-science-ipython-notebooks
 
+### with exclusive comments of @Necmttn
+
 ## Index
 
 * [deep-learning](#deep-learning)
